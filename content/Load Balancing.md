@@ -1,7 +1,7 @@
 ## Introduction
 Load balancers are essential for distributing incoming traffic across a group of servers. Their primary purpose is to enhance a system's availability and reliability by preventing any single server from becoming overwhelmed, which in turn avoids performance issues and downtime.
 
-![](load_balancer.excalidraw.png)
+![](imgs/load_balancer.excalidraw.png)
 
 To achieve maximum scalability and redundancy, you can implement load balancing at multiple layers of your system:
 - **User to Web Server:** A load balancer receives incoming user requests and distributes them among a fleet of web servers. This is the most common and public-facing use.
