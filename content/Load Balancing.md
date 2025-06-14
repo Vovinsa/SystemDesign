@@ -137,10 +137,7 @@ An advanced form of load balancing that distributes traffic across multiple, geo
     - Can be costly, requiring specialized hardware or software.
     - Subject to the same DNS limitations (e.g., slow updates).
 - **Example**: A multinational corporation uses GSLB to ensure high availability for its global web applications.
-
----
-
-### 6. Hybrid Load Balancing
+### Hybrid Load Balancing
 
 A strategy that combines multiple load balancing techniques (e.g., hardware, software, and cloud) to optimize performance and reliability.
 
