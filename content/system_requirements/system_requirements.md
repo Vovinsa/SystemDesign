@@ -4,7 +4,7 @@ The primary goal of the requirements phase is to create an unambiguous agreement
 
 ---
 ## The Two Main Categories of System Requirements
-- [Functional Requirements](functional_requirements)
+- [Functional Requirements](functional_requirements.md)
 - [Non-functional Requirements](non_functional_requirements.md)
 ### Why Requirements Matter
 - **Guidance for Design:** They provide the blueprint for the system architects and designers.
