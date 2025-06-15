@@ -1,7 +1,7 @@
 ## Introduction
 Scalability is the ability of a system to handle a growing amount of load gracefully. A scalable system can increase its capacity by adding resources without requiring a fundamental redesign.
 
-![](imgs/scalability.excalidraw.png)
+![](../../imgs/scalability.excalidraw.png)
 
 ## **How it's Measured** 
 By analyzing the system's performance metrics (latency, throughput) as the load (e.g., number of users, requests) increases.
