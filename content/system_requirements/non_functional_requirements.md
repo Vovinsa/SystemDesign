@@ -7,3 +7,5 @@ If an NFR is not met, the system might still work, but it could be unusable, slo
 - **Measurable and Testable:** While harder to test than FRs, they should be defined in measurable terms (e.g., "response time must be less than 2 seconds").
 ### **Common Types:**
 - [Availability](availability.md)
+- [Fault Tolerance]
+- [Scalability](scalability.md)
